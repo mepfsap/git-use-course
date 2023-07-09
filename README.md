@@ -4,3 +4,4 @@
 
 # Importante do uso em um grupo de trabalho
 
+# Comando Git Pull
